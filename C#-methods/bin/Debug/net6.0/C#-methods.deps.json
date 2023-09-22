@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "C#-methods/1.0.0": {
+      "c#-methods/1.0.0": {
         "runtime": {
-          "C#-methods.dll": {}
+          "c#-methods.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "C#-methods/1.0.0": {
+    "c#-methods/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

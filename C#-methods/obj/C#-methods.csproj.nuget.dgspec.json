@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenovo\\source\\repos\\C#-methods\\C#-methods\\C#-methods.csproj": {}
+    "C:\\Users\\lenovo\\source\\repos\\C#-methods\\c#-methods\\c#-methods.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lenovo\\source\\repos\\C#-methods\\C#-methods\\C#-methods.csproj": {
+    "C:\\Users\\lenovo\\source\\repos\\C#-methods\\c#-methods\\c#-methods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\C#-methods\\C#-methods\\C#-methods.csproj",
-        "projectName": "C#-methods",
-        "projectPath": "C:\\Users\\lenovo\\source\\repos\\C#-methods\\C#-methods\\C#-methods.csproj",
+        "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\C#-methods\\c#-methods\\c#-methods.csproj",
+        "projectName": "c#-methods",
+        "projectPath": "C:\\Users\\lenovo\\source\\repos\\C#-methods\\c#-methods\\c#-methods.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\source\\repos\\C#-methods\\C#-methods\\obj\\",
+        "outputPath": "C:\\Users\\lenovo\\source\\repos\\C#-methods\\c#-methods\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
